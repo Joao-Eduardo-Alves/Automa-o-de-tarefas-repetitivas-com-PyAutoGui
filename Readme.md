@@ -62,3 +62,7 @@ Utilize o arquivo mapear_tela.py para identificar as posições corretas na tela
 ## Atenção
 
 As coordenadas usadas pelo pyautogui são sensíveis à resolução e ao posicionamento da janela, então ajuste o mapeamento quando mudar de máquina ou monitor.
+
+## Interromper a automação
+
+Para cancelar a automação, basta mover o cursor do mouse para o canto superior esquerdo da tela.
